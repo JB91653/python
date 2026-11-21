@@ -22,3 +22,4 @@ class Test:
         pass
 
     def test_channel_up(self):
+        pass
